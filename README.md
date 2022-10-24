@@ -1,0 +1,1 @@
+Probando la secuencia de git para sincronizar entre los estados
